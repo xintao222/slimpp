@@ -34,10 +34,7 @@ Send and Push by two different channel:
 
 3. Send and Receive
 
-    Client———Send—-—>Server
-      |                |
-      |                |
-      |<————Push———————|
+    Client1———Send—-—>Server———Push———>Client2
 
 
 # Addressing
