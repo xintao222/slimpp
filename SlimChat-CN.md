@@ -1,5 +1,7 @@
 
-# SlimChat移动即时消息框架(Draft)
+# SlimChat移动即时消息框架
+
+Draft
 
 
 ## SlimChat简介
